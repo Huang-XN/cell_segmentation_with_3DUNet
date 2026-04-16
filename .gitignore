@@ -1,0 +1,4 @@
+__pycache__/
+data/
+dataset/normalized_data/
+model/__pycache__/
